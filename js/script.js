@@ -6,7 +6,7 @@ contato = document.querySelector('#contato');
 
 divMenu = document.querySelector('.menu').innerHTML;
 divMapa = document.querySelector('.mapa').innerHTML;
-divContato = document.querySelector('.contato').innerHTML;
+divContato = document.querySelector('#contact').innerHTML;
 
 visor = document.querySelector('.visor');
 
