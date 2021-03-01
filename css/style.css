@@ -27,25 +27,26 @@ body {
 }
 
 header {
-    height: 60px;
+    height: 20px;
     width: 100%;
     background: black;
-    margin-top: 20px;
 
     display: flex;
     justify-content: center;
+    align-items: center;
+
+    margin-top: 20px;
+
 }
 
 header .ico {
     border: solid 1px black;
-    width: 80px;
-    height: 80px;
+    width: 50px;
+    height: 50px;
     border-radius: 50%;
     background: white;
 
-    position: absolute;
-
-    margin-top: -10px;
+    margin-top: -5px;
 
     display: flex;
     justify-content: center;
@@ -53,7 +54,7 @@ header .ico {
 }
 
 header .ico img {
-    max-width: 60px;
+    max-width: 45px;
 }
 
 main {
